@@ -1,0 +1,4 @@
+This is a largely pared-down verision of the codebase that was made and edited over the course of the project. Not all changed files are in this present repo. Anything that was created/edited for this project but is otherwise avaiable on the public repo at https://github.com/GenXProject/GenX.jl was included in the same filepath locations that they exist in, in the private repo where work was done. As this is a manual copy of the code and blame history is intentionally reset, all blame history for the edits in these files should be to RichardZhu123. All non-code files in Example_Systems are copied from GenX prior work and were not edited for this project. More specified blame history can be given as needed. 
+
+This submission includes only the report for Saad Ayub at this time. A later commit/fork and submission on Canvas will be made for the submission of Richard Zhu's report. 
+
